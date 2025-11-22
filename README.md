@@ -1,18 +1,59 @@
 # MindFirst Engine (M1E)
+*A post-identity cognitive interaction framework*
 
-MindFirst Engine (M1E) is a post-identity cognitive interaction framework.
-It models only structural communication patterns—recursion, pacing, clarity preference,
-tangent behaviour—instead of demographics.
+MindFirst Engine is an interaction architecture that models users by their **cognitive communication structure**,  
+not their demographic categories. Instead of assuming gender, race, age, or other identity markers,  
+M1E creates a lightweight “OS-map” based solely on how a person thinks, recurses, and processes information.
 
-This enables bias-resistant, privacy-safe, adaptive AI behaviour.
+MindFirst is designed to:
+- remove demographic inference  
+- eliminate stereotype-weighting  
+- improve fairness and precision  
+- adapt to each individual’s reasoning pattern  
+- support post-identity, structure-only AI interaction  
 
-## Core Principles
-- No demographic inference
-- Structural modelling only
-- Session-scoped OS-map
-- Deterministic preprocessing
-- Model-agnostic compatibility
+This repository is the official documentation hub for M1E.
 
-## Purpose
-MindFirst exists to improve fairness, clarity, and accessibility in AI systems by
-focusing on the user's reasoning structure rather than identity categories.
+---
+
+## 📁 Repository Structure
+
+| Phase | Folder | Purpose |
+|-------|--------|---------|
+| **1** | `docs/phase1/` | Conceptual foundations (to be populated) |
+| **2** | `docs/phase2/` | Technical architecture (to be populated) |
+| **3** | `docs/phase3/` | Research basis & ethical position (to be populated) |
+| **4** | `docs/phase4/` | Governance, licence, ethical policy, metadata |
+| — | `docs/index.md` | Main entry point for all documentation |
+| — | `docs/Public_Overview.md` | Human-readable overview |
+
+All pages are written so they can be read independently.
+
+---
+
+## 🧠 Core Ideas
+MindFirst operates with four internal components:
+
+1. **OS-Profiler** — extracts communication structure  
+2. **OS-Interpreter** — chooses correct behavioural strategies  
+3. **OS-Stabiliser** — maintains continuity within a session  
+4. **M1E API Layer** — makes the OS-map available to tools/agents  
+
+No identity data is ever used or stored.
+
+---
+
+## 🛡 Ethical & Governance Documents
+Located in `docs/phase4/`:
+
+- Governance Charter  
+- Ethical Use Policy  
+- MindFirst Licence  
+- Metadata Pack  
+
+These define how MindFirst must be used, expanded, and maintained.
+
+---
+
+## 🌐 Documentation Entry Point
+Start at:
