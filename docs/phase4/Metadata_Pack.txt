@@ -1,3 +1,5 @@
+# MindFirst Metadata Pack
+
 MindFirst Engine (M1E) – Metadata Pack  
 Version: 1.0  
 Date: 2025-11-XX  
