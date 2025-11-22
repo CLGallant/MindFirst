@@ -1,3 +1,5 @@
+# MindFirst Phase 2 — Architecture and Training Specification
+
 MindFirst Framework  
 Phase 2: Whitepaper Structure and Core Concepts  
 Author: C. L. Gallant  
