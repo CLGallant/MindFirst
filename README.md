@@ -56,4 +56,8 @@ These define how MindFirst must be used, expanded, and maintained.
 ---
 
 ## 🌐 Documentation Entry Point
-Start at:
+Start at: Document entry: docs/Public_Overview.md
+
+
+
+Current status: MindFirst Engine v0.1 — foundations, architecture, training process and governance established; refinement and expansion underway.
